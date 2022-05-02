@@ -12,15 +12,15 @@ return [
         /**
          * username: usuario con permisos en la base de datos
          */
-        'username' => 'publicaciones', //no es recomendable usar el usuario root
+        'username' => 'xxxxxx', //no es recomendable usar el usuario root
         /**
          * password: clave del usuario de la base de datos
          */
-        'password' => 'z4dUYmYB48qVYPt8',
+        'password' => 'xxxxxxxxxxxx',
         /**
          * test: nombre de la base de datos
          */
-        'name'     => 'publicaciones',
+        'name'     => 'xxxxxxx',
         /**
          * type: tipo de motor de base de datos (mysql, pgsql, oracle o sqlite)
          */
@@ -47,15 +47,15 @@ return [
         /**
          * username: usuario con permisos en la base de datos
          */
-        'username' => 'c1500490_publica', //no es recomendable usar el usuario root
+        'username' => 'xxxxxxx', //no es recomendable usar el usuario root
         /**
          * password: clave del usuario de la base de datos
          */
-        'password' => 'z4dUYmYB48qVYPt8',
+        'password' => 'xxxxxxxxx',
         /**
          * test: nombre de la base de datos
          */
-        'name'     => 'c1500490_publica',
+        'name'     => 'xxxxxxx',
         /**
          * type: tipo de motor de base de datos (mysql, pgsql o sqlite)
          */
