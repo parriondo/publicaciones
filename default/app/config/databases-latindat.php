@@ -16,7 +16,7 @@ return [
         /**
          * password: clave del usuario de la base de datos
          */
-        'password' => 'z4dUYmYB48qVYPt8',
+        'password' => 'xxxxxxxx',
         /**
          * test: nombre de la base de datos
          */
@@ -47,15 +47,15 @@ return [
         /**
          * username: usuario con permisos en la base de datos
          */
-        'username' => 'latindat_publicaciones', //no es recomendable usar el usuario root
+        'username' => 'xxxxxxxxxx', //no es recomendable usar el usuario root
         /**
          * password: clave del usuario de la base de datos
          */
-        'password' => 'iLg1ygi#J9T+',
+        'password' => 'xxxxxxxxxxx',
         /**
          * test: nombre de la base de datos
          */
-        'name'     => 'latindat_publicaciones',
+        'name'     => 'publicaciones',
         /**
          * type: tipo de motor de base de datos (mysql, pgsql o sqlite)
          */
